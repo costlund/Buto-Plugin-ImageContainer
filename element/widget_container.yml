@@ -1,0 +1,11 @@
+-
+  type: div
+  attribute:
+    class: rs:class
+    style: 
+      background: rs:url
+      height: rs:height
+      background-size: cover
+      background-position: rs:background-position
+      margin-bottom: 50px
+  innerHTML: rs:innerHTML

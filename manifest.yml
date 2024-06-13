@@ -1,0 +1,30 @@
+version: 1.0.2
+history:
+  1.0.2:
+    date: '2023-09-27'
+    title: Versions
+    description: 'Versions update.'
+  1.0.1:
+    date: '2022-11-18'
+    title: Readme
+    description: 'Readme improvement.'
+  1.0.0:
+    date: '2022-10-02'
+    title: 'First version'
+    description: 'First version. Manifest created.'
+plugin:
+  -
+    name: wf/yml
+    version: 1.8.1
+sys:
+  -
+    name: mercury
+    version:
+      - 2.64.0
+php:
+  version:
+    - 8.0.8
+author: null
+links: null
+description: ''
+third_part_software: null
